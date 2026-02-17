@@ -42,7 +42,7 @@ _New Era University_
 - SQL
 - HTML
 - PHP
-- 
+
 ### ☁️ Cloud & Tools
 - Oracle Cloud Infrastructure (OCI)
 - Relational Databases
