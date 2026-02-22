@@ -2,7 +2,7 @@
 
 🎓 **3rd Year Bachelor of Science in Computer Science**  
 🏫 New Era University  
-💻 Aspiring Software Developer | Cloud & Database Enthusiast  
+💻 Aspiring Software Developer | AI, Cloud & Database Enthusiast  
 
 ---
 
