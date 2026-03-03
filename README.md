@@ -61,7 +61,7 @@ _New Era University_
 
 ## 📫 Connect With Me
 
-- 📧 Email: prince.bizz123@gmail.com  
+- 📧 Email: princenelson.aguinaldo@gmail.com
 - 💼 LinkedIn: https://ph.linkedin.com/in/prince-nelson-aguinaldo-688909242
 - 🌐 Portfolio:
 
