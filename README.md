@@ -3,6 +3,7 @@
 🎓 **3rd Year Bachelor of Science in Computer Science**  
 🏫 New Era University  
 💻 Aspiring Software Developer | AI, Cloud & Database Enthusiast
+
 📍 Originally from Kahului, HI now living in Quezon City, PH
 
 ---
