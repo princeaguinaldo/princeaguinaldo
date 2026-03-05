@@ -64,13 +64,8 @@ I enjoy learning new technologies and continuously improving my development skil
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=princeaguinaldo&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeaguinaldo&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=princeaguinaldo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
