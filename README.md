@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prince Nelson J. Aguinaldo Jr.
 
-🎓 **3rd Year BS Computer Science Student**
-📍 Originally from **Kahului, Hawaii** — currently in **Quezon City, Philippines**
+🎓 **3rd Year BS Computer Science Student** <br>
+📍 Originally from **Kahului, Hawaii** — currently in **Quezon City, Philippines** <br>
 💻 **Aspiring Software Developer | AI | Cloud | Database Enthusiast**
 
 ---
