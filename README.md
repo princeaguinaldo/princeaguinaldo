@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prince Nelson J. Aguinaldo Jr.
 
 🎓 **3rd Year Bachelor of Science in Computer Science**  
- 📍 Originally from Kahului, HI now living in Quezon City, PH <br>
+📍 Originally from Kahului, HI now living in Quezon City, PH <br>
 💻 Aspiring Software Developer | AI, Cloud & Database Enthusiast 
 
 
