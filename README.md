@@ -23,8 +23,8 @@ I enjoy learning new technologies and continuously improving my development skil
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**
-🏫 *New Era University*
+**Bachelor of Science in Computer Science** <br>
+🏫 *New Era University* <br>
 📚 3rd Year Student
 
 ---
