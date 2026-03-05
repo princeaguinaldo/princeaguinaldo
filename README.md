@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Prince Nelson J. Aguinaldo Jr.
 
 🎓 **3rd Year Bachelor of Science in Computer Science**  
-🏫 New Era University  
+📍 Originally from Kahului, HI now living in Quezon City, PH 
 💻 Aspiring Software Developer | AI, Cloud & Database Enthusiast 
 
-📍 Originally from Kahului, HI now living in Quezon City, PH
+
 
 ---
 
