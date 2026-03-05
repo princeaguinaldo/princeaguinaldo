@@ -1,72 +1,105 @@
 # 👋 Hi, I'm Prince Nelson J. Aguinaldo Jr.
 
-🎓 **3rd Year Bachelor of Science in Computer Science**  
-📍  Originally from Kahului, HI now living in Quezon City, PH <br>
-💻 Aspiring Software Developer | AI, Cloud & Database Enthusiast 
-
-
+🎓 **3rd Year BS Computer Science Student**
+📍 Originally from **Kahului, Hawaii** — currently in **Quezon City, Philippines**
+💻 **Aspiring Software Developer | AI | Cloud | Database Enthusiast**
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate Computer Science student with a strong interest in **software development, databases, and cloud technologies**.  
-I enjoy building practical solutions, learning modern development tools, and continuously improving my technical skills.
+I am a passionate **Computer Science student** interested in building real-world solutions using modern technologies.
 
-I am currently strengthening my foundation in:
-- Database systems and SQL
-- Cloud infrastructure and AI fundamentals
-- Backend and web development
+My main interests include:
+
+* 💻 Software Development
+* 🗄️ Database Systems
+* ☁️ Cloud Computing
+* 🤖 Artificial Intelligence Fundamentals
+
+I enjoy learning new technologies and continuously improving my development skills.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
-_New Era University_  
-📍 3rd Year Student
+**Bachelor of Science in Computer Science**
+🏫 *New Era University*
+📚 3rd Year Student
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
+
+---
+
+### ☁️ Cloud & Tools
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
 
 ---
 
 ## 📜 Certifications
 
-- ✅ <a href="https://courses.cognitiveclass.ai/certificates/e1fc42ed2a854cd58cc16e940c6f73db">SQL and Relational Databases 101</a> <br>
-- ✅ <a href="https://github.com/user-attachments/files/18192222/eCertificate.pdf">OCI Foundations Associate</a> <br>
-- ✅ <a href="https://github.com/user-attachments/files/18192232/eCertificate.Data.pdf">Oracle Cloud Infrastructure Data Foundations Associate</a> <br>
-- ✅ <a href="https://github.com/user-attachments/files/18192291/eCertificate.AI.pdf">Oracle Cloud Infrastructure AI Foundations Associate</a>
+* ✅ [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e1fc42ed2a854cd58cc16e940c6f73db)
+* ✅ [Oracle Cloud Infrastructure Foundations Associate](https://github.com/user-attachments/files/18192222/eCertificate.pdf)
+* ✅ [Oracle Cloud Infrastructure Data Foundations Associate](https://github.com/user-attachments/files/18192232/eCertificate.Data.pdf)
+* ✅ [Oracle Cloud Infrastructure AI Foundations Associate](https://github.com/user-attachments/files/18192291/eCertificate.AI.pdf)
 
 ---
 
-## 🛠️ Technical Skills
+# 📊 GitHub Stats
 
-### 💻 Programming & Markup
-- Java
-- SQL
-- HTML
-- PHP
+<p align="center">
 
-### ☁️ Cloud & Tools
-- Oracle Cloud Infrastructure (OCI)
-- Relational Databases
-- Git & GitHub (Basic)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrinceNelsonAguinaldo&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceNelsonAguinaldo&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PrinceNelsonAguinaldo&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📈 Current Goals
 
-- 🔹 Improve backend development skills  
-- 🔹 Build real-world projects  
-- 🔹 Earn advanced cloud certifications  
-- 🔹 Contribute to open-source projects  
+* 🔹 Improve **Backend Development Skills**
+* 🔹 Build **Real-World Projects**
+* 🔹 Earn **Advanced Cloud Certifications**
+* 🔹 Contribute to **Open Source**
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- 📧 Email: princenelson.aguinaldo@gmail.com
-- 💼 LinkedIn: https://ph.linkedin.com/in/prince-nelson-aguinaldo-688909242
-- 🌐 Portfolio:
+📧 **Email:** [princenelson.aguinaldo@gmail.com](mailto:princenelson.aguinaldo@gmail.com)
+
+💼 **LinkedIn**
+https://ph.linkedin.com/in/prince-nelson-aguinaldo-688909242
+
+🌐 **Portfolio**
+*Coming Soon*
 
 ---
 
-⭐ *“Continuous learning and consistent improvement are the keys to success.”*
+⭐ *"Continuous learning and consistent improvement are the keys to success."*
