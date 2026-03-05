@@ -65,9 +65,9 @@ I enjoy learning new technologies and continuously improving my development skil
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrinceNelsonAguinaldo&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=princeaguinaldo&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceNelsonAguinaldo&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeaguinaldo&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -76,7 +76,7 @@ I enjoy learning new technologies and continuously improving my development skil
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PrinceNelsonAguinaldo&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=princeaguinaldo&theme=tokyonight"/>
 </p>
 
 ---
