@@ -58,6 +58,7 @@ I enjoy learning new technologies and continuously improving my development skil
 * ✅ [Oracle Cloud Infrastructure Foundations Associate](https://github.com/user-attachments/files/18192222/eCertificate.pdf)
 * ✅ [Oracle Cloud Infrastructure Data Foundations Associate](https://github.com/user-attachments/files/18192232/eCertificate.Data.pdf)
 * ✅ [Oracle Cloud Infrastructure AI Foundations Associate](https://github.com/user-attachments/files/18192291/eCertificate.AI.pdf)
+* ✅ [Gemini Certification for Students](https://edu.exceedlms.com/student/award/P9ycy9GXBNAejZMGEDAsFDTT)
 
 ---
 
