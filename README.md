@@ -41,10 +41,8 @@ I enjoy learning new technologies and continuously improving my development skil
 
 ### ☁️ Cloud & Tools
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=oracle,git,github,docker,vscode" />
 </p>
 
 ---
