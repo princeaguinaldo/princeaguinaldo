@@ -55,6 +55,9 @@ I enjoy learning new technologies and continuously improving my development skil
 * ✅ [Oracle Cloud Infrastructure Data Foundations Associate](https://github.com/user-attachments/files/18192232/eCertificate.Data.pdf)
 * ✅ [Oracle Cloud Infrastructure AI Foundations Associate](https://github.com/user-attachments/files/18192291/eCertificate.AI.pdf)
 * ✅ [Gemini Certification for Students](https://edu.exceedlms.com/student/award/P9ycy9GXBNAejZMGEDAsFDTT)
+* ✅ [Claude 101](https://verify.skilljar.com/c/bskua8kwodxq)
+* ✅ [Claude Code 101](https://verify.skilljar.com/c/5g6ik7ak6hg6)
+* ✅ [Introduction to Claude Cowork](https://verify.skilljar.com/c/4rg63cnmjkfm)
 
 ---
 
