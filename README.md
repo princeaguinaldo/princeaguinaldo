@@ -1,101 +1,89 @@
 # 👋 Hi, I'm Prince Nelson J. Aguinaldo Jr.
 
-🎓 **3rd Year BS Computer Science Student** <br>
-📍 Originally from **Kahului, HI** — currently in **Quezon City, PH** <br>
+### 🎓 3rd Year BS Computer Science Student
+📍 **Current Location:** Quezon City, PH (Originally from Kahului, HI)  
 💻 **Aspiring Software Developer | AI | Cloud | Database Enthusiast**
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Computer Science student** interested in building real-world solutions using modern technologies.
+I am a passionate **Computer Science student** dedicated to building impactful, real-world solutions using modern technologies. 
 
-My main interests include:
-
-* 💻 Software Development
-* 🗄️ Database Systems
-* ☁️ Cloud Computing
-* 🤖 Artificial Intelligence Fundamentals
-
-I enjoy learning new technologies and continuously improving my development skills.
+*   💻 **Software Development:** Building clean, maintainable, and scalable applications.
+*   🗄️ **Database Systems:** Designing efficient relational data models and writing optimized queries.
+*   ☁️ **Cloud & AI:** Exploring modern cloud architecture and practical foundational AI integration.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science** <br>
-🏫 *New Era University* <br>
-📚 3rd Year Student
+*   **Bachelor of Science in Computer Science**
+    *   🏫 *New Era University*
+    *   📚 3rd Year Student
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,html,mysql,python" />
+### 💻 Programming Languages & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,html,mysql,python" />
+  </a>
 </p>
 
----
-
-### ☁️ Cloud & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=oracle,git,github,docker,vscode" />
-  <img src="https://cdn.simpleicons.org/anthropic/white" height="50" />
+### ☁️ Cloud, AI & Developer Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=oracle,git,github,docker,vscode" />
+  </a>
 </p>
 
 ---
 
 ## 📜 Certifications
 
-* ✅ [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e1fc42ed2a854cd58cc16e940c6f73db)
-* ✅ [Oracle Cloud Infrastructure Foundations Associate](https://github.com/user-attachments/files/18192222/eCertificate.pdf)
-* ✅ [Oracle Cloud Infrastructure Data Foundations Associate](https://github.com/user-attachments/files/18192232/eCertificate.Data.pdf)
-* ✅ [Oracle Cloud Infrastructure AI Foundations Associate](https://github.com/user-attachments/files/18192291/eCertificate.AI.pdf)
-* ✅ [Gemini Certification for Students](https://edu.exceedlms.com/student/award/P9ycy9GXBNAejZMGEDAsFDTT)
-* ✅ [Claude 101](https://verify.skilljar.com/c/bskua8kwodxq)
-* ✅ [Claude Code 101](https://verify.skilljar.com/c/5g6ik7ak6hg6)
-* ✅ [Introduction to Claude Cowork](https://verify.skilljar.com/c/4rg63cnmjkfm)
+### ☁️ Oracle Cloud Infrastructure (OCI)
+*   ✅ [OCI Foundations Associate](https://github.com/user-attachments/files/18192222/eCertificate.pdf)
+*   ✅ [OCI Data Foundations Associate](https://github.com/user-attachments/files/18192232/eCertificate.Data.pdf)
+*   ✅ [OCI AI Foundations Associate](https://github.com/user-attachments/files/18192291/eCertificate.AI.pdf)
+
+### 🤖 Anthropic & Claude AI
+*   ✅ [Claude 101](https://verify.skilljar.com/c/bskua8kwodxq)
+*   ✅ [Claude Code 101](https://verify.skilljar.com/c/5g6ik7ak6hg6)
+*   ✅ [Introduction to Claude Cowork](https://verify.skilljar.com/c/4rg63cnmjkfm)
+
+### 📊 Data & Google AI
+*   ✅ [Gemini Certification for Students](https://edu.exceedlms.com/student/award/P9ycy9GXBNAejZMGEDAsFDTT)
+*   ✅ [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e1fc42ed2a854cd58cc16e940c6f73db)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=princeaguinaldo&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=princeaguinaldo&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=princeaguinaldo&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Prince's GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=princeaguinaldo&theme=tokyonight" alt="Prince's GitHub Streak" />
 </p>
 
 ---
 
 ## 📈 Current Goals
 
-* 🔹 Improve **Backend Development Skills**
-* 🔹 Build **Real-World Projects**
-* 🔹 Earn **Advanced Cloud Certifications**
-* 🔹 Contribute to **Open Source**
+*   🔹 Deepen **Backend Development** expertise.
+*   🔹 Engineer functional, deployable **Real-World Projects**.
+*   🔹 Target **Advanced Cloud Certifications**.
+*   🔹 Actively contribute to **Open Source** repositories.
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** [princenelson.aguinaldo@gmail.com](mailto:princenelson.aguinaldo@gmail.com)
-
-💼 **LinkedIn**
-https://ph.linkedin.com/in/prince-nelson-aguinaldo-688909242
-
-🌐 **Portfolio**
-*Coming Soon*
+*   📧 **Email:** [princenelson.aguinaldo@gmail.com](mailto:princenelson.aguinaldo@gmail.com)
+*   💼 **LinkedIn:** [linkedin.com/in/prince-nelson-aguinaldo](https://ph.linkedin.com/in/prince-nelson-aguinaldo-688909242)
+*   🌐 **Portfolio:** *Coming Soon*
 
 ---
 
-⭐ *"Continuous learning and consistent improvement are the keys to success."*
+> 🌟 *"Continuous learning and consistent improvement are the keys to success."*
